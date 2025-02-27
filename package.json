@@ -1,0 +1,17 @@
+{
+  "name": "spotifier-test",
+  "version": "1.0.0",
+  "description": "Testing spotifier npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "cheerio": "^1.0.0-rc.12",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
