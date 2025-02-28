@@ -23,10 +23,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lakshaysethi/spotify-preview-finder.git"
+    "url": "git+https://github.com/lakshay007/spot.git"
   },
   "bugs": {
-    "url": "https://github.com/lakshaysethi/spotify-preview-finder/issues"
-  },
-  "homepage": "https://github.com/lakshaysethi/spotify-preview-finder#readme"
+    "url": "https://github.com/lakshay007/spot/issues"
+  }
 }
