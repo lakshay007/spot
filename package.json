@@ -1,6 +1,6 @@
 {
   "name": "spotify-preview-finder",
-  "version": "1.2.0",
+  "version": "2.1.0",
   "description": "Get Spotify song preview URLs along with song details. Now supports searching by song name and artist for improved accuracy.",
   "main": "index.js",
   "scripts": {},
